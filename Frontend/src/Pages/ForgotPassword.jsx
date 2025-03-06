@@ -3,7 +3,7 @@ import { motion }from 'framer-motion';
 import { useState } from 'react';
 import { useAuthStore } from '../Store/authStore';
 import { Link } from 'react-router-dom';
-import Input from '../components/input';
+import Input from '../components/Input';
 import { Mail, ArrowLeft } from 'lucide-react';
 import { Loader } from 'lucide-react';
 

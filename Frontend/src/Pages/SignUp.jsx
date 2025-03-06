@@ -2,7 +2,7 @@ import React from 'react'
 import {motion} from 'framer-motion'
 import {User, Mail, Lock, Loader} from 'lucide-react' 
 import { useState } from "react";
-import Input from '../components/input';
+import Input from '../components/Input';
 import {Link} from 'react-router-dom'
 import { useNavigate } from 'react-router-dom';
 import PasswordStrength from '../components/PasswordStrength';

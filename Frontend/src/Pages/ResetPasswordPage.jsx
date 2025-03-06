@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { useAuthStore } from '../Store/authStore';
 import { useNavigate, useParams } from 'react-router-dom';
 import {motion} from 'framer-motion';
-import Input from '../components/input';
+import Input from '../components/Input';
 import { Lock } from 'lucide-react';
 import toast from 'react-hot-toast';
 
